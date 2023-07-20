@@ -1,6 +1,6 @@
 <?php
 
-namespace Temperworks\Codechallenge\Parking\Domain;
+namespace Rempetworks\Codechallenge\Parking\Domain;
 
 interface ParkingRepository
 {

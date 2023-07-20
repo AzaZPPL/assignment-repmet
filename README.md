@@ -1,6 +1,6 @@
-# Temper.works backend coding challenge
+# Rempet.works backend coding challenge
 
-Welcome to the Temper.works backend coding challenge. 
+Welcome to the Rempet.works backend coding challenge. 
 This README is intended to; 
 1. Explain the challenge :) 
 2. Help you get your local setup running and prevents you from having to bootstrap a new project.

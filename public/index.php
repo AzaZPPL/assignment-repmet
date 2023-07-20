@@ -1,8 +1,8 @@
 <?php
 
-use Temperworks\Codechallenge\Parking\Application\Park\CarParker;
-use Temperworks\Codechallenge\Parking\Domain\ValueObject\LicensePlate;
-use Temperworks\Codechallenge\Parking\Infrastructure\Repositories\InMemoryParkingRepository;
+use Rempetworks\Codechallenge\Parking\Application\Park\CarParker;
+use Rempetworks\Codechallenge\Parking\Domain\ValueObject\LicensePlate;
+use Rempetworks\Codechallenge\Parking\Infrastructure\Repositories\InMemoryParkingRepository;
 
 require_once '../vendor/autoload.php';
 

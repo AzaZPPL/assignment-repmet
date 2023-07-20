@@ -1,6 +1,6 @@
 {
-    "name": "temperworks/codechallenge",
-    "description": "The code challenge starter for Temper.works",
+    "name": "rempetworks/codechallenge",
+    "description": "The code challenge starter for Rempet.works",
     "license": "MIT",
     "require": {
         "php": "^8.2"
@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Temperworks\\Codechallenge\\": "src/"
+            "Rempetworks\\Codechallenge\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Temperworks\\Codechallenge\\Tests\\": "tests/"
+            "Rempetworks\\Codechallenge\\Tests\\": "tests/"
         }
     }
 }

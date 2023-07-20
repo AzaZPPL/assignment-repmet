@@ -1,8 +1,8 @@
 <?php
 
-namespace Temperworks\Codechallenge\Tests;
+namespace Rempetworks\Codechallenge\Tests;
 
-use Temperworks\Codechallenge\Parking\Infrastructure\Repositories\InMemoryParkingRepository;
+use Rempetworks\Codechallenge\Parking\Infrastructure\Repositories\InMemoryParkingRepository;
 
 class TestCase extends \PHPUnit\Framework\TestCase
 {

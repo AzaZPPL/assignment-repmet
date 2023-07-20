@@ -1,9 +1,9 @@
 <?php
 
-namespace Temperworks\Codechallenge\Tests\Parking\Domain\ValueObject;
+namespace Rempetworks\Codechallenge\Tests\Parking\Domain\ValueObject;
 
-use Temperworks\Codechallenge\Parking\Domain\ValueObject\LicensePlate;
-use Temperworks\Codechallenge\Tests\TestCase;
+use Rempetworks\Codechallenge\Parking\Domain\ValueObject\LicensePlate;
+use Rempetworks\Codechallenge\Tests\TestCase;
 
 class LicensePlateTest extends TestCase
 {

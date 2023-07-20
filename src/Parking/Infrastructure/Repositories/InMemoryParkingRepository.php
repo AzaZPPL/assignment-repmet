@@ -1,10 +1,10 @@
 <?php
 
-namespace Temperworks\Codechallenge\Parking\Infrastructure\Repositories;
+namespace Rempetworks\Codechallenge\Parking\Infrastructure\Repositories;
 
-use Temperworks\Codechallenge\Parking\Domain\ParkingRepository;
-use Temperworks\Codechallenge\Parking\Domain\Vehicle;
-use Temperworks\Codechallenge\Parking\Domain\VehicleIdentifier;
+use Rempetworks\Codechallenge\Parking\Domain\ParkingRepository;
+use Rempetworks\Codechallenge\Parking\Domain\Vehicle;
+use Rempetworks\Codechallenge\Parking\Domain\VehicleIdentifier;
 
 final class InMemoryParkingRepository implements ParkingRepository
 {

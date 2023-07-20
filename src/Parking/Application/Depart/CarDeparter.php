@@ -1,10 +1,10 @@
 <?php
 
-namespace Temperworks\Codechallenge\Parking\Application\Depart;
+namespace Rempetworks\Codechallenge\Parking\Application\Depart;
 
-use Temperworks\Codechallenge\Parking\Domain\Models\Car;
-use Temperworks\Codechallenge\Parking\Domain\ParkingRepository;
-use Temperworks\Codechallenge\Parking\Domain\ValueObject\LicensePlate;
+use Rempetworks\Codechallenge\Parking\Domain\Models\Car;
+use Rempetworks\Codechallenge\Parking\Domain\ParkingRepository;
+use Rempetworks\Codechallenge\Parking\Domain\ValueObject\LicensePlate;
 
 final readonly class CarDeparter
 {

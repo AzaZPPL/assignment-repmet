@@ -1,9 +1,9 @@
 <?php
 
-namespace Temperworks\Codechallenge\Parking\Domain\Models;
+namespace Rempetworks\Codechallenge\Parking\Domain\Models;
 
-use Temperworks\Codechallenge\Parking\Domain\Vehicle;
-use Temperworks\Codechallenge\Parking\Domain\VehicleIdentifier;
+use Rempetworks\Codechallenge\Parking\Domain\Vehicle;
+use Rempetworks\Codechallenge\Parking\Domain\VehicleIdentifier;
 
 class Car implements Vehicle
 {

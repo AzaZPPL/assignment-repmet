@@ -1,8 +1,8 @@
 <?php
 
-namespace Temperworks\Codechallenge\Parking\Domain\ValueObject;
+namespace Rempetworks\Codechallenge\Parking\Domain\ValueObject;
 
-use Temperworks\Codechallenge\Parking\Domain\VehicleIdentifier;
+use Rempetworks\Codechallenge\Parking\Domain\VehicleIdentifier;
 
 final class LicensePlate implements VehicleIdentifier
 {

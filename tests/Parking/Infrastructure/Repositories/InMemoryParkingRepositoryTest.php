@@ -1,11 +1,11 @@
 <?php
 
-namespace Temperworks\Codechallenge\Tests\Parking\Infrastructure\Repositories;
+namespace Rempetworks\Codechallenge\Tests\Parking\Infrastructure\Repositories;
 
-use Temperworks\Codechallenge\Parking\Domain\Models\Car;
-use Temperworks\Codechallenge\Parking\Domain\ValueObject\LicensePlate;
-use Temperworks\Codechallenge\Parking\Infrastructure\Repositories\InMemoryParkingRepository;
-use Temperworks\Codechallenge\Tests\TestCase;
+use Rempetworks\Codechallenge\Parking\Domain\Models\Car;
+use Rempetworks\Codechallenge\Parking\Domain\ValueObject\LicensePlate;
+use Rempetworks\Codechallenge\Parking\Infrastructure\Repositories\InMemoryParkingRepository;
+use Rempetworks\Codechallenge\Tests\TestCase;
 
 class InMemoryParkingRepositoryTest extends TestCase
 {
